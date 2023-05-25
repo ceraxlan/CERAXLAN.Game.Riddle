@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSTECH_ExamGame_Ceraslan_Version2/.vs/CSTECH_ExamGame_Ceraslan_Version2
+/CSTECH_ExamGame_Ceraslan_Version2/CSTECH_ExamGame_Ceraslan_Version2/bin/Debug
+/CSTECH_ExamGame_Ceraslan_Version2/CSTECH_ExamGame_Ceraslan_Version2/obj/Debug
